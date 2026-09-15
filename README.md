@@ -70,6 +70,7 @@ Collections you can copy from instead of starting at a blank field.
 - [Sunomarket catalog](https://sunomarket.com/catalog) - 1,960 style recipes, filterable by genre, mood, tempo and instrumentation. A free preview is open, the rest sits behind an account.
 - [Sunomarket artist recipes](https://sunomarket.com/artists) - 1,003 recipes that describe an artist's sound in descriptors rather than the name, which is the workaround for refused names.
 - [best-suno-ai-prompts](https://github.com/AlijeeWrites/best-suno-ai-prompts) - a free GitHub collection of prompts across 170+ genres and styles.
+- [MUSAI style catalog](https://musaisong.app/en/styles) - 564 style recipes, each with a Suno-ready style prompt, BPM, structure and a note on how a lyric in that style is built. Open to read; the lyric-writing tool behind it is a paid subscription.
 
 ## Guides and references
 
